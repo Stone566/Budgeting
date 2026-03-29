@@ -1,0 +1,5 @@
+{
+  "name": "极简记账",
+  "description": "一款离线可用的极简记账应用，支持分类预算、存钱目标和图表分析，采用苹果设计风格。",
+  "requestFramePermissions": []
+}
